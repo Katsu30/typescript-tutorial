@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Katsu30/typescript-tutorial/issues"
   },
-  "homepage": "https://github.com/Katsu30/typescript-tutorial#readme"
+  "homepage": "https://github.com/Katsu30/typescript-tutorial#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
